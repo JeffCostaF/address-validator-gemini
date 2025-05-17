@@ -25,7 +25,7 @@ Atualmente, o processo de correção desses milhares de endereços problemático
 
 **O Objetivo Deste Projeto:**
 
-Este projeto visa **automatizar e aprimorar radicalmente o processo de validação, correção e enriquecimento desses endereços brasileiros problemáticos.** Utilizando uma abordagem moderna com:
+Este projeto visa **automatizar e aprimorar radicalmente o processo de validação, correção e enriquecimento desses endereços  problemáticos.** Utilizando uma abordagem moderna com:
 
 1.  **Consulta de CEP via API ViaCEP:** Para obter um endereço de referência confiável a partir do CEP.
 2.  **Inteligência Artificial com Google Gemini:** Para realizar uma análise avançada, comparando o endereço original com os dados do CEP, padronizando abreviações, corrigindo erros de forma contextual, preenchendo lacunas e tomando decisões inteligentes sobre o endereço mais preciso.
