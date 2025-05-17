@@ -2,7 +2,7 @@
 Processador inteligente de endereços em Google Colab: lê de planilhas, consulta CEPs, valida/corrige com IA (Gemini), geolocaliza e atualiza os dados.
 
 
-# Validador e Enriquecedor Inteligente de Endereços com IA 住所
+# Validador e Enriquecedor Inteligente de Endereços com IA
 
 **Versão:** 1.0.0
 **Data da Última Atualização:** 17 de maio de 2025
