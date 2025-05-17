@@ -193,3 +193,14 @@ Siga estes passos para configurar e executar o projeto:
 * Mecanismo de feedback para treinar/ajustar os prompts com base em correções manuais.
 * Integração com bancos de dados DNE (Diretório Nacional de Endereços) dos Correios para validação oficial (requer acesso/licenciamento).
 * Tratamento mais sofisticado de limites de taxa de API (ex: backoff exponencial).
+
+Exemplo de endereços com problema: 
+![image](https://github.com/user-attachments/assets/262abbec-f92e-43f1-9848-6d3a3a1611f5)¨
+
+Endereços ajustados/corrigidos:
+
+![image](https://github.com/user-attachments/assets/44dd8741-e5ec-478a-a297-5d076b8b327f)
+
+
+
+
